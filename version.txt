@@ -1,2 +1,2 @@
-1.7.1
-Trimma och Jämför filer tar emot ljud. Rättar en temporär fil som blev kvar.
+1.7.2
+Trimma och Jämför filer tar emot ljud. Färdiga filer hamnar i en mapp döpt efter verktyget. Rättar trimmade klipp som blev en aning för långa.
