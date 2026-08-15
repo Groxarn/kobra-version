@@ -1,2 +1,2 @@
-1.6.0
-Den här versionen är den senaste.
+1.7.1
+Trimma och Jämför filer tar emot ljud. Rättar en temporär fil som blev kvar.
